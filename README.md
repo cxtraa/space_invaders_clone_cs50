@@ -43,6 +43,9 @@ I use a Linux system, so there is no Windows executable file. If you like, you c
     - Player death SFX
 - HP regeneration between levels
 - Game over screen
+
+## Credits
+See CREDITS.md for a list of all credits.
   
 
 
