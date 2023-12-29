@@ -9,3 +9,7 @@ SFX are from the [Woolyss](https://woolyss.com/chipmusic-samples.php) website. I
 The title screen soundtrack is from K00sin's [Chiptune Grooving](https://pixabay.com/music/video-games-chiptune-grooving-142242/).
 
 The in-game soundtrack is from [Filippo Vicarelli's](https://www.filippovicarelli.com/8bit-game-background-music) website. I used 'Commodore 64 Style - Battle Music Loop 02'.
+
+## Extra credits
+
+Special thanks to xXCatoTheCool123Xx and Gortimus_Maximus_567 for testing the game out and suggesting improvements!
