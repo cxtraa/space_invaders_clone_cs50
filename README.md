@@ -8,6 +8,12 @@ The entire game is written in `main.cpp`, with around 1000 lines of code. I late
 
 Rendering using OpenGL was one of the most conceptually difficult parts of the game. To render sprites, I used OpenGL's graphics pipeline. This involved: creating a vertex shader (responsible for providing vertex coordinates - pixel colours between the vertices are then interpolated), creating a fragment shader (responsible for doing interpolation to find colour of a pixel, using a buffer which stores our pixel data), and then creating a VAO (vertex array object) to link the vertex data and the shader programs.
 
+## Running instructions
+### Linux
+For Linux users, navigate to the /bin/Release folder. Then simply double click on the executable file space_invaders_cs50.
+### Windows
+I use a Linux system, so there is no Windows executable file. If you like, you can open the project in Code::Blocks (the IDE used to develop the game), and build it yourself.
+
 ## Controls
 - Move left: LEFT arrow
 - Move right: RIGHT arrow
