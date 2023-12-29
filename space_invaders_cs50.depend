@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1703791881 source:/home/moosa/Documents/projects/space_invaders_cs50/main.cpp
+	<cstdio>
+	<cstdint>
+	<iostream>
+	<cctype>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	<irrKlang.h>
+	<cstring>
+	<algorithm>
+
