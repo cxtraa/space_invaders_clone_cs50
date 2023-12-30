@@ -1,5 +1,8 @@
 # Space Invaders clone in C++
 
+## CS50 video link
+URL: https://www.youtube.com/watch?v=Q8MvnbwuXhY
+
 ## Introduction
 This project is a clone of Space Invaders built in C++ using OpenGL for graphics rendering, and irrKlang for audio control. It is intended to be my CS50 final project. 
 
